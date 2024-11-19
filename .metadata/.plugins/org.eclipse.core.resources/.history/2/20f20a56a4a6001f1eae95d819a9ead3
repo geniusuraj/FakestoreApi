@@ -1,0 +1,5 @@
+package com.fakestoreapi.prospecta.controller;
+
+public class ProductController {
+
+}

@@ -1,0 +1,5 @@
+package com.fakestoreapi.prospecta.model;
+
+public class Product {
+
+}
